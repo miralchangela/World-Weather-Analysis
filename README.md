@@ -29,4 +29,4 @@ Using Google Directions API a travel route was created to display positional coo
 
 A marker layer map with pop-up was added to provide customized information to the user describing the name of the city, country, hotel and current weather description. 
 
-![weatherpy_travel_map_marker](https://github.com/miralchangela/World-Weather-Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png))
+![weatherpy_travel_map_marker](https://github.com/miralchangela/World-Weather-Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
